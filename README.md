@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VasilDeichyk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👋 Hi, I’m @VasilDeichyk
+- 👋 Hi, I’m @VasilDzeichyk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python, django
 - 💞️ I’m looking to collaborate on ...
